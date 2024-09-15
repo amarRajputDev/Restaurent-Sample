@@ -1,9 +1,9 @@
 import React from 'react'
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
-import Nav from './Nav'
+
 import background from "../assests/bg1.jpg"
-import model from "../assests/model.png"
+
 import Image from 'next/image';
 import { Button } from './ui/button';
 import { Clock, MapPin, Star } from 'lucide-react';
