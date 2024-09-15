@@ -1,13 +1,7 @@
-import { useState } from 'react'
-import Image from "next/image"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Card, CardContent } from "@/components/ui/card"
-import { MapPin, Clock, DollarSign, ShoppingCart, Star, ChevronDown } from "lucide-react"
-import background from "../../assests/bg1.jpg"
-import model from "../../assests/model.png"
+
+
 import AOS from 'aos';
-import 'aos/dist/aos.css'; // You can also use <link> for styles
+import 'aos/dist/aos.css';
 import Nav from '../Nav'
 import Page1 from '../Page1'
 import Feature from '../Feature'

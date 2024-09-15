@@ -1,5 +1,5 @@
 import React from 'react'
-import AOS from 'aos';
+
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 
 import background from "../assests/bg1.jpg"
@@ -8,7 +8,6 @@ import Image from 'next/image';
 import { Button } from './ui/button';
 import { Clock, MapPin, Star } from 'lucide-react';
 
-AOS.init();
 
 function Page1() {
   return (
