@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+// import "./custom-scrollbar.css"; // Add this line
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
