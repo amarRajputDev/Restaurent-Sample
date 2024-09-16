@@ -13,10 +13,10 @@ function Section2() {
             // data-aos-offset="200"
             // data-aos-delay="50"
             data-aos-duration="800"
-            data-aos-easing="ease-in-out"
+            // data-aos-easing="ease-in-out"
             // data-aos-mirror="true"
             data-aos-once="false"
-            data-aos-anchor-placement="top-center"
+            // data-aos-anchor-placement="top-center"
             
             src={sec2} alt="Food Plate"  className="rounded-lg w-[500px] " />
           </div>
