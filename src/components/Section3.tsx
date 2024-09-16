@@ -36,7 +36,7 @@ function Section3() {
               // data-aos-anchor-placement="top-center"
               >
                 <CardContent className="p-4 h-full" >
-                  <div className='flex justify-center items-center h-[75%] '>
+                  <div className='flex justify-center items-center h-[70%] '>
                   <Image src={item.image} alt={item.title} width={200} height={200} className="rounded-lg mb-4" />
                   </div>
                   <div className="flex justify-between items-center mb-2">

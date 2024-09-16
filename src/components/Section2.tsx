@@ -20,9 +20,9 @@ function Section2() {
             
             src={sec2} alt="Food Plate"  className="rounded-lg w-[500px] " />
           </div>
-          <div className="lg:w-1/2 w-full pl-12">
+          <div className="lg:w-1/2 w-full lg:pl-12">
             <h2 className="text-3xl text-gray-700 font-bold mb-6">Why People Choose us?</h2>
-            <div className="space-y-6">
+            <div className="">
               {[
                 { icon: <Clock className="w-6 h-6 text-[#FF6B6B]" />, title: "Convenient and Reliable", description: "Whether you dine in, take out, or order delivery, our service is always fast and reliable, making mealtime hassle-free." },
                 { icon: <DollarSign className="w-6 h-6 text-[#FF6B6B]" />, title: "Variety of Options", description: "From hearty meals to light snacks, we offer a wide range of options to suit every taste and craving." },
